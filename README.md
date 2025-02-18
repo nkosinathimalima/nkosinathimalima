@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on security assement and testing
 - 📫 How to reach me is with e mail on nkosinathimalima25@gmail.com
 - 😄 i identify as male
-- ⚡ Fun fact: i have ahard wordking mind set and never give up on a task 
+- ⚡ Fun fact: i have a hard working mind set and never give up on a task 
 
 <!---
 nkosinathimalima/nkosinathimalima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
